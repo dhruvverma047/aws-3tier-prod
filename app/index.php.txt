@@ -1,0 +1,4 @@
+<?php
+echo "<h1>Dhruv AWS 3-Tier Application</h1>";
+echo "<p>Server is running successfully!</p>";
+?>
